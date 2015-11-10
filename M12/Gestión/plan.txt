@@ -1,0 +1,15 @@
+Logo: Jonathan Vallejo (1 hora)
+Plan de empresa: Jonathan Vallejo (20 horas)
+Plano físico: Jonathan Vallejo (2 horas) 
+Plano lógico: Jesús Morales (2 horas) 
+Configuración Servidor DNS: Jesús Morales (6 horas)
+Configuración Servidor DHCP: Jesús Morales (6 horas)
+Configuración Servidor WEB: Jesús Morales (6 horas)
+Configuración Servidor FTP: Jesús Morales (6 horas)
+Configuración Servidor Correo: Jesús Morales (6 horas)
+Montaje Hardware: Jonathan Vallejo (10 horas)
+Configuración Software: Jesús Morales  (5 horas)
+Pressupuesto: (2 horas)
+Maquetación: Jesús Morales y Jonathan Vallejo (2 horas)
+
+Total: 28 semanas x 3 horas a la semana (84 Horas) 20-10-2015
